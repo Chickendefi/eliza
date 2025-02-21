@@ -1,7 +1,7 @@
 {
     "name": "ChickenXBT",
     "clients": ["telegram", "twitter"],
-    "modelProvider": "anthropic",
+    "modelProvider": "openrouter",
     "settings": {
         "secrets": {},
         "voice": {
