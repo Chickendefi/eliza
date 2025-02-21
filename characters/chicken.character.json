@@ -1,6 +1,6 @@
 {
     "name": "ChickenXBT",
-    "clients": ["telegram"],
+    "clients": ["telegram", "twitter"],
     "modelProvider": "deepseek",
     "settings": {
         "secrets": {},
