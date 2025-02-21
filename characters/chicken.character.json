@@ -1,7 +1,7 @@
 {
     "name": "ChickenXBT",
     "clients": ["telegram", "twitter"],
-    "modelProvider": "mistral",
+    "modelProvider": "anthropic",
     "settings": {
         "secrets": {},
         "voice": {
